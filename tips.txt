@@ -1,0 +1,10 @@
+/** WRITE YOUR TIPS IN THIS FILE **/
+1. DO NOT GET FEVER
+2. spend decent time on reading the provided code and instructions
+3. first write the two anytime search function,because this is (almost) irrelevant to the game
+4. for writing alt-heru, list some "special" cases in games, better in graph form,then trying to give best considerations
+in the solution
+5. Use google when stuck (but do not copy),there are similar solutions online, some of them maybe wrong or not good enough,
+understand the logic(usually just cases you didnt realize), write down in words,then implement yourself.
+6. try to test single function before use it (the assignment does not require it just run it in console to make sure it is
+right)
